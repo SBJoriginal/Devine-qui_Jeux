@@ -1,0 +1,54 @@
+Nom complet:
+Numéro de dossier (NI):
+Estimation du temps de réalisation: 
+
+
+Fonctionnalités
+---------------
+
+/10: Le jeu se déroule fluidement et sans problèmes
+    Commentaires: 
+
+/10: L’intelligence arrive à deviner le bon personnage
+    Commentaires: 
+
+/5: L’intelligence devine le personnage en peu de questions
+    Commentaires: 
+
+/5: Fonction types_caracteristiques_ordre_aleatoire
+    Commentaires: 
+
+/5: Fonction valeurs_ordre_aleatoire
+    Commentaires: 
+
+/10: Fonction possede
+    Commentaires: 
+
+/20: Fonction score_dichotomie
+    Commentaires: 
+
+/10: Fonction selectionner_caracteristique
+    Commentaires: 
+
+/10: Fonction mettre_a_jour_hypotheses
+    Commentaires: 
+
+/5: Respect de la décomposition fonctionnelle demandée
+    Commentaires: 
+
+/10: Qualité du code (noms de variables, style, commentaires, documentation)
+    Commentaires: 
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total: /100
+
