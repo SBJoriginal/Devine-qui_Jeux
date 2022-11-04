@@ -14,7 +14,9 @@ return type_maximal, valeur_maximal
 
 
 
-
+max_score = 0
+type_max, valeur_max = None, None
+foor type in types_caracteristiques_ordre_aleatoire()
 
 
 
